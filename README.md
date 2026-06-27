@@ -242,6 +242,9 @@ Developed using Microsoft Power BI Desktop.
 ```text
 FreeToGame-Analytics/
 │
+├── Dataset/                  # Dataset
+│   └── Games_Dataset.csv      # Games dataset
+│
 ├── notebooks/                  # ETL Pipeline
 │   └── data_pipeline.py        # API extraction, data cleaning, and loading
 │

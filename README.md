@@ -41,10 +41,10 @@
 - [Dashboard Features](#dashboard-features)
 - [Tech Stack](#tech-stack)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Repository Structure](#-repository-structure)
+- [Repository Structure](#repository-structure)
 - [How to Run](#how-to-run)
 - [Author](#author)
-- [License](#License)
+- [License](#license)
 
 ---
 
@@ -237,8 +237,6 @@ Developed using Microsoft Power BI Desktop.
 
 ## Repository Structure
 
-## Repository Structure
-
 ```text
 FreeToGame-Analytics/
 │
@@ -331,7 +329,7 @@ Use the dashboards to explore:
 *Data Analytics & Data Engineering Portfolio Project*
 
 - **GitHub:** [Ajitjha3095](https://github.com/Ajitjha3095)
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- **LinkedIn:** [Ajit Jha](https://www.linkedin.com/in/ajitjha01/)
 
 ---
 

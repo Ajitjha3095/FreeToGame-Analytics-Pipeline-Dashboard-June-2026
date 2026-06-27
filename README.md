@@ -175,7 +175,7 @@ Interactive dashboard providing:
 Dashboard:  https://datastudio.google.com/reporting/93de7600-f43a-48ba-bc5e-26d862d40de3/page/T1C2F
 
 
-###Tableau Dashboard
+### Tableau Dashboard
 
 Interactive visual analytics including:
 •	Genre Breakdown
@@ -187,7 +187,7 @@ Interactive visual analytics including:
 Dashboard: https://public.tableau.com/app/profile/ajit.jha/viz/FreeToGameAnalyticsDashboard/Dashboard1?publish=yes
 
 
-###Power BI Dashboard
+### Power BI Dashboard
 
 Developed using Microsoft Power BI Desktop.
 •	KPIs
@@ -237,7 +237,7 @@ Developed using Microsoft Power BI Desktop.
 
 ## Repository Structure
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 FreeToGame-Analytics/
